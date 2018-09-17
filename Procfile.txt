@@ -1,1 +1,1 @@
-web: gunicorn GDTR:app
+web: gunicorn GDTR: app
